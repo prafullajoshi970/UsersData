@@ -1,0 +1,18 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: black;
+    color:aliceblue
+  }
+  .right{
+    margin-top: 2vh;
+  }
+  a{
+    text-decoration: none;
+    margin: 5px;
+  }
+  h1{
+    color:green;
+    margin:0;
+  }
